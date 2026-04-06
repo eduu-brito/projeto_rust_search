@@ -26,11 +26,11 @@ Pré-requisitos
 
 ## Exemplos de uso
 
-use megastore_search::product::Product;
-use megastore_search::search::SearchEngine;
+    use megastore_search::product::Product;
+    use megastore_search::search::SearchEngine;
 
-fn main() {
-    let mut engine = SearchEngine::new();
+      fn main() {
+       let mut engine = SearchEngine::new();
 
     // Adicionar produtos
     engine.add_product(Product {
