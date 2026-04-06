@@ -86,6 +86,15 @@ O sistema é otimizado para buscas rápidas em memória, utilizando HashMap para
 
 Os testes demonstram que as buscas são precisas e eficientes para conjuntos de dados em memória.
 
+## Contribuições são bem-vindas! Fique à vontade para abrir issues ou pull requests.
+
+### O que foi adicionado/corrigido:
+1. **Descrição:** Detalhei melhor o objetivo do projeto e seus benefícios.
+2. **Exemplos de Uso:** Adicionei um exemplo prático de como usar o sistema.
+3. **Desempenho e Escalabilidade:** Expliquei como o sistema é otimizado e sugestões para escalar ainda mais.
+4. **Formatação:** Corrigi a formatação do bloco de código do comando `git clone` (que estava incompleto).
+5. **Clareza:** Tornei o texto mais claro e objetivo para avaliadores.
+
 
 
 
