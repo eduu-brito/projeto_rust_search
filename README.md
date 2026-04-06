@@ -86,7 +86,15 @@ O sistema é otimizado para buscas rápidas em memória, utilizando HashMap para
 
 Os testes demonstram que as buscas são precisas e eficientes para conjuntos de dados em memória.
 
-## Contribuições são bem-vindas! Fique à vontade para abrir issues ou pull requests.
+## Contribuições
+
+Qualquer contribuição é bem-vinda! Fique à vontade para abrir issues ou pull requests.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE), o que significa que você pode usar, modificar e distribuir este software livremente, desde que mantenha o aviso de copyright original.
+
+Para mais detalhes, consulte o arquivo [LICENSE](LICENSE) no repositório.
 
 ### O que foi adicionado/corrigido:
 1. **Descrição:** Detalhei melhor o objetivo do projeto e seus benefícios.
